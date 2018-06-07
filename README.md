@@ -1,2 +1,2 @@
 # mouse_tumors2018
-For synergy analysis of murine Harderian gland tumors after irradiation by mixtures of high-energy ionized isotopes
+The purpose of this repository is to make the main scripts used for the paper "Synergy theory for murine Harderian gland tumors after irradiation by mixtures of high-energy ionized atomic nuclei" freely available for hard-nosed evaluation of the paper's conclusions by independent researchers having different perspectives. The scripts can be downloaded, tested, modified, critically evaluated, etc. under the lenient GPL3 license.
