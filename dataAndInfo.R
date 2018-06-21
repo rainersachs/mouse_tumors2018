@@ -53,7 +53,7 @@ rm(list=ls()) # To be removed when script is finalized
 
 # These two lines of script plus the .csv file (which will need work as 
 # additions and perhaps corrections come up) should be all we need.
-ion_data <- data.frame(read.csv("data/raw_data_ordered.csv")) 
+ion_data <- data.frame(read.csv("raw_data_ordered.csv")) 
 
 # However the older versions, which show how to compute ion speed and the Katz 
 # track structure parameter, may be useful later.
